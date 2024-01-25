@@ -10,3 +10,12 @@ node_modules
 
 # Test coverage
 coverage/*
+
+# Sass
+.sass-cache/
+
+# Compiled Python bytecode
+.DS_Store
+
+# Compiled source #
+bower_components/
